@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matteo Passaro</h1>
 <h3 align="center">Computer Science student at University and Tech enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteopassaro&label=Profile%20views&color=0e75b6&style=flat" alt="matteopassaro" /> </p>
 
 - 🌱 I’m currently learning **C, Java, Algorithms**
 
