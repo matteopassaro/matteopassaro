@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matteo Passaro</h1>
+<h1 align="center">Hi 👋 I'm Matteo Passaro</h1>
 <h3 align="center">Computer Science student at University and Tech enthusiast.</h3>
 
 
